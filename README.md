@@ -34,8 +34,9 @@ The Next.js 'TOPIC' app is a web application for managing and organizing topics.
 - Mongoose
 
   ##TODOAPP
-  ![Screenshot (329)](https://github.com/atharva-0123-cs/todoapp/assets/112416167/87abe483-05df-491a-bb49-58c05d0c8efb)
 
+
+![Screenshot (329)](https://github.com/atharva-0123-cs/todoapp/assets/112416167/26c810dc-b463-4197-833d-417a77d5781b)
 
 ## License
 This project is licensed under the MIT License.
