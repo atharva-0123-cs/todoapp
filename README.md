@@ -4,10 +4,6 @@ First, run the development server:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
@@ -22,8 +18,8 @@ The Next.js 'TOPIC' app is a web application for managing and organizing topics.
 - List Topics: Display a list of all topics.
 
 ## Installation
-1. Clone the repository: ` git clone https://github.com/atharva-0123-cs/mongodb-curd.git`
-2. Navigate to the project directory: `cd mongodb-curd`
+1. Clone the repository: ` git clone https://github.com/atharva-0123-cs/todoapp.git`
+2. Navigate to the project directory: `cd todoapp`
 3. Install dependencies: `npm install`
 
 ## Configuration
@@ -46,6 +42,10 @@ The Next.js 'TOPIC' app is a web application for managing and organizing topics.
 - Node.js
 - MongoDB
 - Mongoose
+
+  ##TODOAPP
+  ![Screenshot (329)](https://github.com/atharva-0123-cs/todoapp/assets/112416167/87abe483-05df-491a-bb49-58c05d0c8efb)
+
 
 ## License
 This project is licensed under the MIT License.
